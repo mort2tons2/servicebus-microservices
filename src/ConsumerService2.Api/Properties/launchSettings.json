@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ConsumerService2.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61697;http://localhost:61702"
+    }
+  }
+}

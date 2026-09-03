@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EventFanout.AppHost/AsbMicroservices.AppHost.csproj" />
+    <Project Path="src/EventFanout.ServiceDefaults/EventFanout.ServiceDefaults.csproj" />
+    <Project Path="src/ConsumerService1.Api/ConsumerService1.Api.csproj" />
+    <Project Path="src/Shared.Events/Shared.Events.csproj" />
+    <Project Path="src/ConsumerService2.Api/ConsumerService2.Api.csproj" />
+    <Project Path="src/PublisherService.Api/PublisherService.Api.csproj" />
+  </Folder>
+  <Folder Name="/web/">
+    <Project Path="web/consumer-service-1/consumer-service-1.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+    <Project Path="web/consumer-service-2/consumer-service-2.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+    <Project Path="web/publisher-service/publisher-service.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+</Solution>
