@@ -1,6 +1,7 @@
 # servicebus-microservices
-azure service bus, microservices with frontend, blob storage, Aspire
-Upload and Delete events
+- azure service bus, microservices with frontend, blob storage,
+- Upload and Delete file events
+- Aspire
 
  <img width="996" height="877" alt="Aspire resources" src="https://github.com/user-attachments/assets/3d162f10-9f81-410c-8621-b917f6d5ad37" />
 
