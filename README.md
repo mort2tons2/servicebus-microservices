@@ -10,5 +10,8 @@
 
 <img width="1228" height="792" alt="Screenshot 2026-09-01 220317" src="https://github.com/user-attachments/assets/2ec8c65f-7808-4305-add9-bbc9f3e9e8fb" />
 
+Upload:
+https://github.com/user-attachments/assets/cb7df089-51d3-4480-b138-402fc6610765
 
-
+Delete:
+https://github.com/user-attachments/assets/d69010c9-eac3-4038-a949-6859d003770c
