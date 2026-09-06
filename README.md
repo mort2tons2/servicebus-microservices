@@ -1,6 +1,7 @@
 # servicebus-microservices
 - azure service bus, microservices with frontend, blob storage,
 - Upload and Delete file events
+- working on adding filtering, deadletter
 - Aspire
 - Docker Desktop for images
 
